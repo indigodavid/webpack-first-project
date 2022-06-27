@@ -22,7 +22,7 @@ Modern web browser with Javascript enabled
 
 ### Install
 
-git clone https://github.com/indigodavid/webpack-first-project.git
+    git clone https://github.com/indigodavid/webpack-first-project.git
 
 ### Usage
 
