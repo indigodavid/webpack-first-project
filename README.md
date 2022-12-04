@@ -22,8 +22,6 @@ Modern web browser with Javascript enabled
 
 ### Install
 
-    git clone https://github.com/indigodavid/webpack-first-project.git
-
 ### Usage
 
 ### Run tests
@@ -36,9 +34,9 @@ Modern web browser with Javascript enabled
 
 👤 **David Vera**
 
-- GitHub: [@indigodavid](https://github.com/indigodavid)
-- Twitter: [@indigo1987](https://twitter.com/indigo1987)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/david-vera-castillo-001b5756/)
+- GitHub: [![GitHub Badge](https://img.shields.io/badge/-indigodavid-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/indigodavid)
+- Twitter: [![Twitter Badge](https://img.shields.io/badge/-indigo1987-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/indigo1987)
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-davidveracastillo-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://linkedin.com/in/davidveracastillo/)
 
 ## 🤝 Contributing
 
